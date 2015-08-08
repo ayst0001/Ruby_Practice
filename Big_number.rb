@@ -2,6 +2,7 @@
 
 # Introduction
 puts "None like C, Integers in ruby should be able to handle numbers very large"
+puts "However, keep in mind the accuracy of caculation between floats is a different story"
 
 # Main functions
 # Gets inputs
